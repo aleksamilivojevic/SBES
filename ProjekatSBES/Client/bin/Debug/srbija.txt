@@ -1,0 +1,5 @@
+Drzava: Srbija
+Grad: Sabac
+Godina: 2020
+Portosnja: 12000
+ID:1

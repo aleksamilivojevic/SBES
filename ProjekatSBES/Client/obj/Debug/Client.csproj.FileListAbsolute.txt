@@ -1,0 +1,14 @@
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Client.exe.config
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Client.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Client.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Contracts.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\ManagerAplikacije.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Service_Client.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Contracts.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\ManagerAplikacije.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\bin\Debug\Service_Client.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\obj\Debug\Client.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Client\obj\Debug\Client.pdb

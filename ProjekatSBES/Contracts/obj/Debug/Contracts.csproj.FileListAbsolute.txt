@@ -1,0 +1,5 @@
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Contracts\bin\Debug\Contracts.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Contracts\obj\Debug\Contracts.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Contracts\obj\Debug\Contracts.pdb

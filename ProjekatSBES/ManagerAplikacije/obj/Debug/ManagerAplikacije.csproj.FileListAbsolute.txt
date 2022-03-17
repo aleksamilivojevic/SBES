@@ -1,0 +1,13 @@
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\bin\Debug\ManagerAplikacije.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\bin\Debug\ManagerAplikacije.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\bin\Debug\Contracts.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\bin\Debug\Service_Client.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\bin\Debug\Contracts.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\bin\Debug\Service_Client.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.RBACConfig.resources
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.csproj.CopyComplete
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\ManagerAplikacije\obj\Debug\ManagerAplikacije.pdb

@@ -1,0 +1,17 @@
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\WCFService.exe.config
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\WCFService.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\WCFService.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Contracts.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Logger.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\ManagerAplikacije.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Service_Client.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Contracts.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Logger.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Logger.exe.config
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\ManagerAplikacije.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\bin\Debug\Service_Client.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\obj\Debug\WCFService.csproj.CopyComplete
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\obj\Debug\WCFService.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\WCFService\obj\Debug\WCFService.pdb

@@ -1,0 +1,10 @@
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\bin\Debug\Logger.exe.config
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\bin\Debug\Logger.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\bin\Debug\Logger.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\bin\Debug\Contracts.dll
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\bin\Debug\Contracts.pdb
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\obj\Debug\Logger.csproj.CopyComplete
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\obj\Debug\Logger.exe
+C:\Users\Luka\Desktop\fakultet\4. Godina\SBES\ProjekatSBES\Logger\obj\Debug\Logger.pdb
